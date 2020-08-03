@@ -1,0 +1,56 @@
+{
+	"feature": [{
+
+			"location": {
+
+				"latitude": 1,
+				"longitude": 2
+			},
+			"name": "Xerem, Duque de Caxias, BR"
+
+		},
+		{
+
+			"location": {
+
+				"latitude": 3,
+				"longitude": 2
+			},
+			"name": "Santo Antonio, Duque de Caxias, BR"
+
+		},
+		{
+
+			"location": {
+
+				"latitude": 5,
+				"longitude": 6
+			},
+			"name": "Capivari, Duque de Caxias, BR"
+
+		},
+		{
+
+			"location": {
+
+				"latitude": 4,
+				"longitude": 3
+			},
+			"name": "Santa Cruz da Serra, Duque de Caxias, BR"
+
+		},
+		{
+
+			"location": {
+
+				"latitude": 25,
+				"longitude": 20
+			},
+			"name": "25 de Agosto, Duque de Caxias, BR"
+
+		}
+
+	]
+
+
+}
